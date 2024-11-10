@@ -1,0 +1,9 @@
+{
+    "name": "Placeholder Name",
+    "short_name": "PlaceholderName",
+    "start_url": "/html/index.html",
+    "display": "standalone",
+    "background_color": "#FFE7E0",
+    "theme_color": "FFE711",
+    "orientation": "portrait-primary"
+}
